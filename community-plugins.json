@@ -31939,5 +31939,12 @@
     "author": "Levis-Code",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Spreadsheet-style formulas in Markdown tables. Results live as plain, portable text, not a rendered view. Aggregates, lookups, dates, custom functions, and cross-note references with automatic recalculation.",
     "repo": "levis-code/markcalc"
+  },
+  {
+    "id": "nn-bridge",
+    "name": "NN Bridge",
+    "author": "Maws",
+    "description": "Visual tweaks and toggle options for the Notebook Navigator plugin. Hide shortcut labels, section headers, vault title, note counts, and more.",
+    "repo": "Maws7140/nn-bridge"
   }
 ]
